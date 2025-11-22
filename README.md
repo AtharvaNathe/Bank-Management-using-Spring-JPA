@@ -5,7 +5,7 @@ This application allows users to manage accounts, perform transactions, and view
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 - **Add Account** — Create new bank accounts.
 - **Close Account** — Remove an existing account.
