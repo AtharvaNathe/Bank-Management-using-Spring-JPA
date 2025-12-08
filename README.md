@@ -47,5 +47,4 @@ BankingApp/
 
 
 ## 👨‍💻 Developed By
-👨‍💻 Developed By
 Atharva Nathe
