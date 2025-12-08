@@ -27,7 +27,7 @@ This application allows users to manage accounts, perform transactions, and view
 
 ---
 
-## 
+## Project Structure
 BankingApp/
 │
 ├── src/main/java/com/example/bankapp/ 
