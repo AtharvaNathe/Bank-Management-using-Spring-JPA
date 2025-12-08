@@ -46,6 +46,6 @@ BankingApp/
 
 
 
-## 📂 Project Structure
+## 👨‍💻 Developed By
 👨‍💻 Developed By
 Atharva Nathe
